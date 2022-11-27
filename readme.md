@@ -8,4 +8,5 @@
 
 ### COMANDOS:
 
+    npx prisma studio - startar o prisma
     npm run dev - startar o projeto
